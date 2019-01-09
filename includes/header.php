@@ -5,7 +5,7 @@
         <title>Messenger</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
         <!-- Kết nối thư viện Font Awesome Icons -->
-        <link rel="stylesheet" href="css/font-awesome-4.6.3/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/fontawesome-free-5.6.3-web/css/fontawesome.min.css">
         <!-- Kết nối file css/style.css -->
         <link rel="stylesheet" href="css/style.css">
     </head>
@@ -16,7 +16,7 @@
             // Hiển thị menu
             echo '<div class="main-menu">
                             <h1><i class="fa fa-commenting"></i> Messenger</h1>
-                            <a href="logout.php"><i class="fa fa-sign-out"></i></a> 
+                            <a href="logout.php"><i class="fas fa-sign-out-alt"></i></a> 
                     </div>
                     <div class="clearfix"></div>';
         }
